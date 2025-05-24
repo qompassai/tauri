@@ -3,6 +3,7 @@
 <h3> Qompass AI on Tauri </h3>
 
 ![Repository Views](https://komarev.com/ghpvc/?username=qompassai-tauri)
+![GitHub all releases](https://img.shields.io/github/downloads/qompassai/tauri/total?style=flat-square)
   <a href="https://tauri.app/">
   <img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri">
 </a>
