@@ -1,3 +1,7 @@
+<!-- /qompassai/tauri/README.md -->
+<!-- ---------------------------- -->
+<!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
+
 <h2> Tauri: For cross-platform employing safety by design</h2>
 
 <h3> Qompass AI on Tauri </h3>
